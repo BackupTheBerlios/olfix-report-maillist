@@ -1,0 +1,24 @@
+From jan at pihlgren.se  Mon Nov 26 04:31:03 2007
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Mon, 26 Nov 2007 04:31:03 +0100
+Subject: [Olfix-report] Ny hemsida och nytt forum
+Message-ID: <474A3DF7.4090009@pihlgren.se>
+
+*Ny hemsida, www.olfix.se*.
+
+Vi kan nu meddela att OLFIX erh?llet en egen dom?n *www.olfix.se*.
+Vi har nu flyttat OLFIXs hemsida till den nya addressen.
+Vi har ocks? skapat ett nytt forum f?r OLFIX, som l?ttas n?s via OLFIXs 
+hemsida.
+Forumet ?r avsett f?r dem som anv?nder och ?r intresserade av OLFIX.
+Den nya hemsidan ?r inte t?nkt att konkurera med andra forum om Linux 
+utan bara avhandla fr?gest?llningar som ber?r OLFIX.
+
+V?lkomna till OLFIXs nya hemsida.
+
+// Jan P
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/olfix-report/attachments/20071126/875e2246/attachment.html>
+

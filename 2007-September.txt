@@ -1,0 +1,31 @@
+From jan at pihlgren.se  Sun Sep 23 11:28:54 2007
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Sun, 23 Sep 2007 11:28:54 +0200
+Subject: [Olfix-report] Ny leverans OLFIX_0.5.6.B
+Message-ID: <46F631D6.2030700@pihlgren.se>
+
+Hej och p? ?terseende efter sommaren.
+
+Det ?r nu dags f?r ?nnu en leverans av OLFIX, version 0.5.6.B.
+Den skulle ha s?ndsut redan i b?rjan av september men pga min dator 
+krashade i slutet p? maj och jag inte lagt ner n?gon tid p? att 
+?terst?lla den har det tagit lite tid. :-)
+Jag har skaffat en ny h?rddisk och f?tt lov att installera Mandriva 
+2007.0 fr?n f?rsta b?rjan.
+Detta samt tiden det tagit att f?rs?ka ?terst?lla det som gick att r?dda 
+har tagit ungef?r tv? veckor.
+
+I Mandriva 2008.0 har man genomg?ende anv?nt UTF-8 vilket f?tt som 
+resultat att text med svenska tecken blivit lite konstig. Jag har 
+f?rs?kt korrigera detta i n?gra fall. I de fall ni uppt?cker flera 
+st?llen d?r det skulle beh?va korrigeras vore jag tacksam om ni 
+raporterar det via
+https://developer.berlios.de/forum/forum.php?forum_id=2364
+eller
+https://developer.berlios.de/bugs/?func=addbug&group_id=786
+
+Under sommaren har jag gjort en del arbete som nu levereras.
+
+mvh// Jan Pihlgren
+
+

@@ -1,0 +1,61 @@
+From jan at pihlgren.se  Tue Mar  6 06:59:18 2007
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Tue, 06 Mar 2007 06:59:18 +0100
+Subject: [Olfix-report] OLFIX ver 0.5.3.B
+Message-ID: <45ED0336.4010200@pihlgren.se>
+
+Hej H?r kommer en ny leverans av OLFIX.
+
+En av de stora f?r?ndringarna i denna version ?r ut?kning till 20 tecken
+f?r OLFIXs USERID.
+F?r den som vill beh?lla tidigare information i databaserna s? anv?nd
+f?ljande sql-script f?r att uppdatera tabellerna och beh?lla informationen.
+sql-scripten finns i /opt/olfix/sql.
+
+    AlterTableUSR.sql Ut?kat f?lt USERID till 20 tecken           
+    AlterTableRIGHTS.sql Ut?kat f?lt USERID till 20 tecken
+            F?r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableKURESK.sql Ut?kat f?lt USERID till 20 tecken
+            F?r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableLEVRESK.sql Ut?kat f?lt USERID till 20 tecken
+            F?r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableVERHUVUD.sql Ut?kat f?lt USERID till 20 tecken
+            F?r uppdatering av befintlig databas (olfix och olfixtst)
+
+I ?vrigt har det blivit mycket buggr?ttning, justering och modifiering
+av diverse program.
+Nytt ?r DELBETW, bort tag av betalningsvillkor.
+Se n?rmare i Changelog.
+
+mvh// Jan P
+
+-- 
+Jan Pihlgren
+
+Magnegatan 44
+195 57  M?RSTA
+Sweden
+
+Tfn:    08-59112449
+Mobil: 070-5915257
+e-mail: jan at pihlgren.se
+Hemsida/Homepage: http://www.pihlgren.se
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/olfix-report/attachments/20070306/fda262ba/attachment.html>
+
+From jan at pihlgren.se  Fri Mar 30 05:53:08 2007
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Fri, 30 Mar 2007 05:53:08 +0200
+Subject: [Olfix-report] OLFIX 0.5.4.B Leverans
+Message-ID: <460C89A4.7020708@pihlgren.se>
+
+D? var det dags igen f?r en ny leverans av OLFIX, OLFIX-0.5.4.B
+Denna g?ng ?r det en del buggfixar.
+Samt lite nytt i onlinedokumetationen, BACKUP.
+Dokumentationen i BACKUP ?r att betrakta som f?rslag.
+
+mvh// Jan P
+
+

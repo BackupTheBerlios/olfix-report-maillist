@@ -1,0 +1,54 @@
+From jan at pihlgren.se  Mon May  1 10:35:18 2006
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Mon, 01 May 2006 10:35:18 +0200
+Subject: [Olfix-report] OLFIX Leverans av version 0.4.3.B
+Message-ID: <4455C846.8040101@pihlgren.se>
+
+Hej
+D? var det dags igen f?r en ny leverans av OLFIX, ver. 0.4.3.B
+Leveransen finns att h?mta
+http://www.shellkonto.nu/olfix/
+
+Huvudelen av arbetet har legat p? buggr?ttning och justeringar.
+Har p?b?rjat inf?rande av TAB-funktion f?r f?lt. Kommer i huvudsak
+att i samband med buggr?ttningar.
+En del tabell?ndringar har ocks? gjorts.
+L?s Changelog.txt
+
+Har ?ven p?b?rjat arbetet med en offertmodul.
+
+Pga buggr?ttningar mm har arbetet med dokumentation blivit lidande.
+Ska f?rs?ka arbeta ikapp.
+
+Med v?nliga och v?rliga h?lsningar
+Jan Pihlgren
+
+
+From jan at pihlgren.se  Tue May 23 08:32:38 2006
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Tue, 23 May 2006 08:32:38 +0200
+Subject: [Olfix-report] OLFIX 0.4.4.B_20060523
+Message-ID: <4472AC86.6050905@pihlgren.se>
+
+Nu finns version OLFIX 0.4.4.B_20060523 att h?mta p?
+http://www.shellkonto.nu/olfix/
+
+Nu blir det ett uppeh?ll under sommaren s? forts?tter arbetet i h?st.
+
+Ha en sk?n sommar//
+Jan P
+
+-- 
+Jan Pihlgren
+
+Magnegatan 44
+195 57  M?RSTA
+Sweden
+
+Tfn:    08-59112449
+Mobil: 070-5915257
+e-mail: jan at pihlgren.se
+Hemsida/Homepage: http://hem.bredband.net/janpih/
+
+
+

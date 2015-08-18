@@ -1,0 +1,15 @@
+From sedeki at gmail.com  Mon Oct  2 20:39:10 2006
+From: sedeki at gmail.com (Tobias Andersen)
+Date: Mon, 2 Oct 2006 20:39:10 +0200
+Subject: [Olfix-report] Hej!
+Message-ID: <1eb007a20610021139q72b1d062tea0d7822c846393d@mail.gmail.com>
+
+Hej!
+Jag ?r ny h?r p? listan och jag t?nkte till en b?rjan erbjuda hj?lp
+med en snyggare hemsida.
+
+Finns det m?jlighet att f? olfix till GTK, f?rresten?
+
+mvh /Tobias
+
+

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Olfix-report] OLFIX ver 0.5.3.B
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/olfix-report/2007-March/index.html" >
+   <LINK REL="made" HREF="mailto:olfix-report%40lists.berlios.de?Subject=Re%3A%20%5BOlfix-report%5D%20OLFIX%20ver%200.5.3.B&In-Reply-To=%3C45ED0336.4010200%40pihlgren.se%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   <LINK REL="Next"  HREF="000008.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Olfix-report] OLFIX ver 0.5.3.B</H1>
+    <B>Jan Pihlgren</B> 
+    <A HREF="mailto:olfix-report%40lists.berlios.de?Subject=Re%3A%20%5BOlfix-report%5D%20OLFIX%20ver%200.5.3.B&In-Reply-To=%3C45ED0336.4010200%40pihlgren.se%3E"
+       TITLE="[Olfix-report] OLFIX ver 0.5.3.B">jan at pihlgren.se
+       </A><BR>
+    <I>Tue Mar  6 06:59:18 CET 2007</I>
+    <P><UL>
+        
+        <LI>Next message: <A HREF="000008.html">[Olfix-report] OLFIX 0.5.4.B Leverans
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#7">[ date ]</a>
+              <a href="thread.html#7">[ thread ]</a>
+              <a href="subject.html#7">[ subject ]</a>
+              <a href="author.html#7">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hej H&#228;r kommer en ny leverans av OLFIX.
+
+En av de stora f&#246;r&#228;ndringarna i denna version &#228;r ut&#246;kning till 20 tecken
+f&#246;r OLFIXs USERID.
+F&#246;r den som vill beh&#229;lla tidigare information i databaserna s&#229; anv&#228;nd
+f&#246;ljande sql-script f&#246;r att uppdatera tabellerna och beh&#229;lla informationen.
+sql-scripten finns i /opt/olfix/sql.
+
+    AlterTableUSR.sql Ut&#246;kat f&#228;lt USERID till 20 tecken           
+    AlterTableRIGHTS.sql Ut&#246;kat f&#228;lt USERID till 20 tecken
+            F&#246;r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableKURESK.sql Ut&#246;kat f&#228;lt USERID till 20 tecken
+            F&#246;r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableLEVRESK.sql Ut&#246;kat f&#228;lt USERID till 20 tecken
+            F&#246;r uppdatering av befintlig databas (olfix och olfixtst)
+    AlterTableVERHUVUD.sql Ut&#246;kat f&#228;lt USERID till 20 tecken
+            F&#246;r uppdatering av befintlig databas (olfix och olfixtst)
+
+I &#246;vrigt har det blivit mycket buggr&#228;ttning, justering och modifiering
+av diverse program.
+Nytt &#228;r DELBETW, bort tag av betalningsvillkor.
+Se n&#228;rmare i Changelog.
+
+mvh// Jan P
+
+-- 
+Jan Pihlgren
+
+Magnegatan 44
+195 57  M&#196;RSTA
+Sweden
+
+Tfn:    08-59112449
+Mobil: 070-5915257
+e-mail: <A HREF="https://lists.berlios.de/mailman/listinfo/olfix-report">jan at pihlgren.se</A>
+Hemsida/Homepage: <A HREF="http://www.pihlgren.se">http://www.pihlgren.se</A>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/olfix-report/attachments/20070306/fda262ba/attachment.html">https://lists.berlios.de/pipermail/olfix-report/attachments/20070306/fda262ba/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	<LI>Next message: <A HREF="000008.html">[Olfix-report] OLFIX 0.5.4.B Leverans
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#7">[ date ]</a>
+              <a href="thread.html#7">[ thread ]</a>
+              <a href="subject.html#7">[ subject ]</a>
+              <a href="author.html#7">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/olfix-report">More information about the Olfix-report
+mailing list</a><br>
+</body></html>

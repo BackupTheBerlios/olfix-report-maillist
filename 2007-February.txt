@@ -1,0 +1,26 @@
+From jan at pihlgren.se  Sat Feb 10 05:32:45 2007
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Sat, 10 Feb 2007 05:32:45 +0100
+Subject: [Olfix-report] OLFIX 0.5.2.B
+Message-ID: <45CD4AED.3070708@pihlgren.se>
+
+Hej igen.
+D? var det dags igen f?r en ny leverans av OLFIX, ver 0.5.2.B
+Denna g?ng ?r det bara en mindre m?ngd buggr?ttningar.
+
+Med v?nliga h?lsningar
+Jan Pihlgren
+
+-- 
+Jan Pihlgren
+
+Magnegatan 44
+195 57  M?RSTA
+Sweden
+
+Tfn:    08-59112449
+Mobil: 070-5915257
+e-mail: jan at pihlgren.se
+Hemsida/Homepage: http://www.pihlgren.se
+
+

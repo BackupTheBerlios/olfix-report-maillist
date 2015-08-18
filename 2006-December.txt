@@ -1,0 +1,38 @@
+From jan at pihlgren.se  Fri Dec  1 06:38:17 2006
+From: jan at pihlgren.se (Jan Pihlgren)
+Date: Fri, 01 Dec 2006 06:38:17 +0100
+Subject: [Olfix-report] OLFIX:Leverans av ver. 0.5.0.B
+Message-ID: <456FBFC9.40206@pihlgren.se>
+
+Hej
+Nu, ?ntligen, var det dags f?r en ny leverans av OLFIX. :-[
+Det har tagit lite tid sedan f?reg?ende leverans, mycket beroende p? den
+fina sommaren.
+Arbetet med offerthantering har ocks? tagit sin tid. Dessutom har en del
+andra saker beh?vt lite tid.
+I forts?ttninge kommer arbetet att koncentreras p? buggr?ttningar och
+justeringar initierade i huvudsak av rapporter och ?nskem?l fr?n
+anv?ndare. Det blir troligen v?ldigt lite av utveckling av nya funktioner.
+
+S?, framtiden blir ganska beroende av respons fr?n anv?ndare mm.
+
+Om vi inte h?rs innan dess s? ha en
+God Jul
+och ett
+Gott Nytt ?r
+
+Jan P
+
+-- 
+Jan Pihlgren
+
+Magnegatan 44
+195 57  M?RSTA
+Sweden
+
+Tfn:    08-59112449
+Mobil: 070-5915257
+e-mail: jan at pihlgren.se
+Hemsida/Homepage: http://hem.bredband.net/janpih/
+
+
